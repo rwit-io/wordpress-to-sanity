@@ -168,7 +168,6 @@ For any questions or support, feel free to reach out at [RWIT](https://www.rwit.
 
 - Ensure you have the necessary API permissions in Sanity before running the script.
 - Adjust API endpoints and schema fields as needed based on your WordPress data structure.
-- If you encounter any issues with this script, please reach out to us through our official website https://www.rwit.io/contact.
 
 ## License
 
