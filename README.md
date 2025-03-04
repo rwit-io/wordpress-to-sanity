@@ -31,7 +31,8 @@ Before running this script, ensure you have the following:
    ```
 
 ## Schema for `post` in Sanity
-Note: Please ensure that this schemas matches with your WordPress posts and pages schema
+Note: Please ensure that this schemas matches with your WordPress posts and pages schema,
+
 To store the migrated WordPress posts in Sanity, create a schema file for the `post` content type:
 
 ```js
