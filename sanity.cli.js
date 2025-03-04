@@ -1,8 +1,10 @@
 import {defineCliConfig} from 'sanity/cli'
+const dotenv = require('dotenv');
+dotenv.config();
 
 export default defineCliConfig({
   api: {
-    projectId: 'lgu75gpc',
+    projectId: process.env.PROJECT_ID,
     dataset: 'production'
   },
   /**
