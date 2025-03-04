@@ -154,6 +154,16 @@ node WordpressToSanityMigration.js
 - Implements retry logic for API rate limits to prevent excessive failures.
 - Provides detailed console logs for troubleshooting.
 
+## Acknowledgments
+
+A [remote agency](https://www.rwit.io/) with a global reach specializing in developing custom software and headless applications
+
+Made with ❤️ by [RWIT](https://www.rwit.io/)
+
+## Contact Us
+
+For any questions or support, feel free to reach out at [RWIT](https://www.rwit.io/contact?utm_source=www&utm_medium=contactbutton&utm_campaign=visit).
+
 ## Notes
 
 - Ensure you have the necessary API permissions in Sanity before running the script.
